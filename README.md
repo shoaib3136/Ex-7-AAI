@@ -75,7 +75,7 @@ print(summary)
 
 ## Output
 
-![image](https://github.com/shoaib3136/Ex-7-AAI/assets/117919362/202b3624-a059-4f94-9d85-39f378b2b564)
+![image](https://github.com/shoaib3136/Ex-7-AAI/assets/117919362/3dca77a8-b26f-4e49-9450-4b44b2300e86)
 
 
 ## Result:
